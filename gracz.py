@@ -1,5 +1,5 @@
 from talia import Talia
-
+# Gracz
 class Gracz:
     imie: str
     karty: list

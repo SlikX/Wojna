@@ -1,7 +1,7 @@
 from talia import Talia
 from gracz import Gracz
 import random
-
+# Main
 def main():
     # print("Hell")
     # for x in random.sample(range(1,14), 9):
